@@ -39,7 +39,7 @@
             </objects>
             <point key="canvasLocation" x="886.95652173913049" y="59.598214285714285"/>
         </scene>
-        <!--Achivement-->
+        <!--Achievement-->
         <scene sceneID="Zzs-qp-le1">
             <objects>
                 <viewController id="5C5-V7-Iq6" customClass="MedalShowcaseViewController" customModule="Runner" customModuleProvider="target" sceneMemberID="viewController">
@@ -158,7 +158,7 @@
                             <constraint firstItem="dh1-A0-cZi" firstAttribute="top" secondItem="hsu-He-tC4" secondAttribute="top" id="qzK-6G-M2c"/>
                         </constraints>
                     </view>
-                    <navigationItem key="navigationItem" title="Achivement" largeTitleDisplayMode="never" id="kHW-U0-LgM">
+                    <navigationItem key="navigationItem" title="Achievement" largeTitleDisplayMode="never" id="kHW-U0-LgM">
                         <barButtonItem key="rightBarButtonItem" title="Achivemnets" image="menu" id="4tj-kH-Fc7">
                             <color key="tintColor" red="0.96862745100000003" green="0.96862745100000003" blue="0.96862745100000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         </barButtonItem>
