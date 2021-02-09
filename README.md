@@ -2,4 +2,4 @@
 This is UI Mock test of an amazing Application. It just shows the UICollectionView with sections
 
 
-![grab-landing-page](https://github.com/varun-king/Rukeeper-UI-Mock/blob/master/RunKeep%20Mock%20Test.gif)
+![grab-landing-page](https://github.com/varun-king/Rukeeper-UI-Mock/blob/master/NewGippy.gif)
